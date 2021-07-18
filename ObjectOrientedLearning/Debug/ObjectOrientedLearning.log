@@ -1,0 +1,5 @@
+﻿  ObjectOrientedLearning.cpp
+C:\Users\harry\Desktop\Programming\Scripts\C\CPPOOP\ObjectOrientedLearning\ObjectOrientedLearning.cpp(89,23): warning C4244: 'argument': conversion from 'ULONGLONG' to 'unsigned int', possible loss of data
+C:\Users\harry\Desktop\Programming\Scripts\C\CPPOOP\ObjectOrientedLearning\ObjectOrientedLearning.cpp(95,23): warning C4244: 'argument': conversion from 'ULONGLONG' to 'unsigned int', possible loss of data
+C:\Users\harry\Desktop\Programming\Scripts\C\CPPOOP\ObjectOrientedLearning\ObjectOrientedLearning.cpp(101,23): warning C4244: 'argument': conversion from 'ULONGLONG' to 'unsigned int', possible loss of data
+  ObjectOrientedLearning.vcxproj -> C:\Users\harry\Desktop\Programming\Scripts\C\CPPOOP\ObjectOrientedLearning\Debug\ObjectOrientedLearning.exe
